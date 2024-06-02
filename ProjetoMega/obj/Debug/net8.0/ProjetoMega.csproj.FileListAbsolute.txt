@@ -1,0 +1,14 @@
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\bin\Debug\net8.0\ProjetoMega.exe
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\bin\Debug\net8.0\ProjetoMega.deps.json
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\bin\Debug\net8.0\ProjetoMega.runtimeconfig.json
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\bin\Debug\net8.0\ProjetoMega.dll
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\bin\Debug\net8.0\ProjetoMega.pdb
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ProjetoMega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ProjetoMega.AssemblyInfoInputs.cache
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ProjetoMega.AssemblyInfo.cs
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ProjetoMega.csproj.CoreCompileInputs.cache
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ProjetoMega.dll
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\refint\ProjetoMega.dll
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ProjetoMega.pdb
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ProjetoMega.genruntimeconfig.cache
+C:\Users\deser\OneDrive\Documentos\gitMain\ProjetoMega\ProjetoMega\obj\Debug\net8.0\ref\ProjetoMega.dll
